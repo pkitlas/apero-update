@@ -2,6 +2,7 @@
 title: "SNAP Bulletin Third Edition"
 subtitle: ""
 excerpt: ""
+author: "Peter Kitlas"
 date: 2020-05-02
 draft: false  
 layout: single

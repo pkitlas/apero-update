@@ -2,10 +2,9 @@
 title: "Eighteenth Century Moroccan Diplomats"
 subtitle: "A Network Analysis"
 date: 2020-12-14
+author: "Peter Kitlas"
 draft: false 
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: ["Peter Kitlas"]
 
 tags: ["Morocco", "Mediterranean", "Diplomacy"]
 layout: single
