@@ -4,7 +4,7 @@ subtitle: "Postdoctoral Fellow @ Emory University"
 description: "Committed to better understanding the role of religion in our modern society through exploring diversity of historical voices, inclusive teaching practices, and communal learning."
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/revoir.jpg
+  - img/homeimage.jpeg
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
