@@ -9,7 +9,7 @@ audio_link_label: ""
 link_list_label: "Quick Links" # bookmarks, elsewhere, etc.
 link_list:
 - name: C.V.
-  url: static/files/cv.pdf
+  url: files/cv.pdf
 - name: Pastries
   url: https://en.wikipedia.org/wiki/Pastry
 - name: People
