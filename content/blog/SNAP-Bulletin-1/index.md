@@ -8,7 +8,7 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- Theme features
+
 ---
 
 The inaugural [**SNAP Bulletin**](http://www.spainnorthafricaproject.org/bulleltin) focuses on the shift from the early modern to the modern and its consequences for both Moroccan and Spanish actors in the western Mediterranean. From an eighteenth century ambassadorial mission to the twentieth century establishment of Tetouan’s Centro de Arte Moderno, Eric Calderwood’s description of the two as ‘strange bedfellows’ is ever present in the background. 

@@ -8,7 +8,6 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- evergreen
 ---
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/legation.jpeg" width="672" />
