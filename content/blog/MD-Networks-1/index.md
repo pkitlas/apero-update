@@ -5,9 +5,9 @@ date: 2020-12-14
 draft: false 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Peter Kitlas"]
+authors: ["Peter Kitlas"]
 
-tags = ["Morocco", "Mediterranean", "Diplomacy"]
+tags: ["Morocco", "Mediterranean", "Diplomacy"]
 layout: single
 caption: "Moroccan sultan Muhammad III, r. 1757-1790"
 focal_point: "Smart"

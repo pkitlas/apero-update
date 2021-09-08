@@ -7,9 +7,9 @@ draft: false
 layout: single
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Peter Kitlas"]
+authors: ["Peter Kitlas"]
 
-tags = ["Morocco", "Mediterranean", "Spain", "SNAP"]
+tags: ["Morocco", "Mediterranean", "Spain", "SNAP"]
 ---
 
 The third edition of the [**SNAP Bulletin**](http://www.spainnorthafricaproject.org/bulletin/2020/5/2/front) fhighlight the artistic and creative connections across North Africa and Europe - an apt prelude to the 2021 SNAP sponsored conference on sensoria. 
