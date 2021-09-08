@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "Atlanta, Georgia"
   description = "A personal website for Dr. Peter Kitlas."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/icon-192.png"
   mainSections = ["publications", "teaching", "blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
