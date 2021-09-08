@@ -1,7 +1,7 @@
 ---
 title: "SNAP Bulletin Second Edition"
 subtitle: ""
-excerpt: "An .Rmarkdown post"
+excerpt: ""
 date: 2019-12-01
 author: "Peter Kitlas"
 draft: false
