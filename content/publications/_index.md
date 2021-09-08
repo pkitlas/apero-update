@@ -9,7 +9,7 @@ show_post_date: false
 layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
-# sidebar: 
+sidebar: 
   title: A Sidebar for Your Projects
   description: |
     Projects can be anything!
