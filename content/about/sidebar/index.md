@@ -9,11 +9,11 @@ audio_link_label: ""
 link_list_label: "Quick Links" # bookmarks, elsewhere, etc.
 link_list:
 - name: C.V.
-  url: files/cv.pdf
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+  url: /files/cv.pdf
+- name: Academia Page
+  url: https://princeton.academia.edu/PeterKitlas?from_navbar=true
+- name: SNAP Bulletin Home
+  url: http://www.spainnorthafricaproject.org/bulletin
 ---
 
 ** index doesn't contain a body, just front matter above.
