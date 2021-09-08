@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Peter Kitlas.
+  Historian. Collaborator. Friend.
 ---
 
 <!-- this is a subheadline -->
