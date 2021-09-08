@@ -11,7 +11,7 @@ categories:
 - evergreen
 ---
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/plot-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/legation.jpeg" width="672" />
 
 Throughout the eighteenth century, the Ottoman and Russian Empires were at war. However, a decisive victory by the Russian Empire helped them assert their influence over both Crimea and the Mediterranean. The Ottomans, wanting to counteract this assumption of power fought to prevent Russian ships from entering through the Straits of Gibraltar, seeking assistance from the Moroccan king Sidi Muhammed Ben Abdallah. In this context, Peter discusses the vibrant developments in diplomatic activity between Morocco and the Ottoman Empire throughout the eighteenth century. The increased exchange of diplomats between these two non-European powers demonstrates how Morocco and the Ottoman Empire responded to changes in international relations during this time period while still maintaining a particular diplomatic ethos.
 
