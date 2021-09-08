@@ -19,6 +19,6 @@ While the ‘stay in place’ orders might have deprived us from some of our usu
 
 In all three posts our authors invite us to rethink temporal, geographic, and paradigmatic contingencies to explore a diversity of connections - diving more intimately into the histories of the musicians, authors, and scholars involved. We hope that these stories will provide a welcome respite to our members during this time of pandemic.
 
-As always a special thanks  goes out to our contributors: [**Jonathan Glasser**](https://www.wm.edu/as/anthropology/people/glasser-j.php) and [**Liz Matsushita**](https://history.illinois.edu/directory/profile/matssht2) and [**Randa Jebrouni**] (https://uae.academia.edu/RandaJebrouni). 
+As always a special thanks  goes out to our contributors: [**Jonathan Glasser**](https://www.wm.edu/as/anthropology/people/glasser-j.php) and [**Liz Matsushita**](https://history.illinois.edu/directory/profile/matssht2) and [**Randa Jebrouni**](https://uae.academia.edu/RandaJebrouni). 
 
 Enjoy!
