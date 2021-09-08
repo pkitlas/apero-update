@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am a Postdoctoral Fellow at Emory University, researching the intellectual roots of international thought from an eighteenth-century, Islamic perspective. :ma: :tr: :es: :fr: :it:
+I am a Postdoctoral Fellow at Emory University, researching the intellectual roots of international thought from an eighteenth-century, Islamic perspective. :mo: :tr: :es: :fr: :it:
