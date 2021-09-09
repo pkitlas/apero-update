@@ -13,18 +13,17 @@ categories:
   - Book Review
 layout: single
 links:
-- icon: door-open
+- icon: file-word
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  name: Article
+  url: https://www.academia.edu/33830823/Book_Review_for_James_A.O.C._Browns_Crossing_the_strait_Morocco_Gibraltar_and_Great_Britain_in_the_18th_and_19th_centuries
+- icon: book
+  icon_pack: fas
+  name: Book
+  url: https://www.amazon.com/Crossing-Strait-Morocco-Gibraltar-Centuries/dp/9004208933
 ---
+In The Journal of North African Studies v.22, no.5:
 
 James A.O.C. Brown's study of economic and diplomatic relations between British Gibraltar and Alawite Morocco offers more than simply a political history. Rather, Brown aptly employs a socio-historical methodology, allowing him to explore the dynamic mechanisms and developments of these relations.
-
-In ![The Journal of North African Studies v.22, no.5: 910-911](https://www.academia.edu/33830823/Book_Review_for_James_A.O.C._Browns_Crossing_the_strait_Morocco_Gibraltar_and_Great_Britain_in_the_18th_and_19th_centuries)
 
 ---
