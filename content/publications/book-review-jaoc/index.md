@@ -11,7 +11,7 @@ categories:
   - Morocco
   - Mediterranean
   - Book Review
-layout: single
+layout: single-sidebar
 links:
 - icon: file-word
   icon_pack: fas
