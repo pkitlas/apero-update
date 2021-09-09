@@ -1,7 +1,7 @@
 ---
 title: "Book Review for James A.O.C. Brown's, Crossing the strait"
 subtitle: "Morocco, Gibraltar, and Great Britain in the 18th and 19th Centuries"
-excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
+excerpt: ""
 date: 2017-07-08
 author: "Peter Kitlas"
 draft: false
