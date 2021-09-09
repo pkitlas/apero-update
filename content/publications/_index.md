@@ -10,15 +10,13 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Projects
+  title: Latest Publications
   description: |
-    Projects can be anything!
-    Check out the _index.md file in the /project folder 
-    to edit this content.
-  author: "The R Markdown Team @RStudio"
+    Check out my latest publications in The Encyclopedia of Islam, The Journal of North African Studies, and The Mediterranean Studies Journal.
+  author: ""
   text_link_label: ""
   text_link_url: ""
-  show_sidebar_adunit: false # show ad container
+  show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all individual pages inside project/
 cascade:    
